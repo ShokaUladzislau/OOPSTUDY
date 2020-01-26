@@ -1,0 +1,8 @@
+/Users/uladzislaushoka/RiderProjects/OOPSolution/TypesOfRailwayCars/bin/Debug/netcoreapp3.0/TypesOfRailwayCars.deps.json
+/Users/uladzislaushoka/RiderProjects/OOPSolution/TypesOfRailwayCars/bin/Debug/netcoreapp3.0/TypesOfRailwayCars.dll
+/Users/uladzislaushoka/RiderProjects/OOPSolution/TypesOfRailwayCars/bin/Debug/netcoreapp3.0/TypesOfRailwayCars.pdb
+/Users/uladzislaushoka/RiderProjects/OOPSolution/TypesOfRailwayCars/obj/Debug/netcoreapp3.0/TypesOfRailwayCars.csprojAssemblyReference.cache
+/Users/uladzislaushoka/RiderProjects/OOPSolution/TypesOfRailwayCars/obj/Debug/netcoreapp3.0/TypesOfRailwayCars.AssemblyInfoInputs.cache
+/Users/uladzislaushoka/RiderProjects/OOPSolution/TypesOfRailwayCars/obj/Debug/netcoreapp3.0/TypesOfRailwayCars.AssemblyInfo.cs
+/Users/uladzislaushoka/RiderProjects/OOPSolution/TypesOfRailwayCars/obj/Debug/netcoreapp3.0/TypesOfRailwayCars.dll
+/Users/uladzislaushoka/RiderProjects/OOPSolution/TypesOfRailwayCars/obj/Debug/netcoreapp3.0/TypesOfRailwayCars.pdb

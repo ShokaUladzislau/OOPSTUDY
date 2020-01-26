@@ -1,0 +1,14 @@
+/Users/uladzislaushoka/RiderProjects/OOPSolution/TrainBuilder/bin/Debug/netcoreapp3.0/TrainBuilder
+/Users/uladzislaushoka/RiderProjects/OOPSolution/TrainBuilder/bin/Debug/netcoreapp3.0/TrainBuilder.deps.json
+/Users/uladzislaushoka/RiderProjects/OOPSolution/TrainBuilder/bin/Debug/netcoreapp3.0/TrainBuilder.runtimeconfig.json
+/Users/uladzislaushoka/RiderProjects/OOPSolution/TrainBuilder/bin/Debug/netcoreapp3.0/TrainBuilder.runtimeconfig.dev.json
+/Users/uladzislaushoka/RiderProjects/OOPSolution/TrainBuilder/bin/Debug/netcoreapp3.0/TrainBuilder.dll
+/Users/uladzislaushoka/RiderProjects/OOPSolution/TrainBuilder/bin/Debug/netcoreapp3.0/TrainBuilder.pdb
+/Users/uladzislaushoka/RiderProjects/OOPSolution/TrainBuilder/bin/Debug/netcoreapp3.0/TypesOfRailwayCars.dll
+/Users/uladzislaushoka/RiderProjects/OOPSolution/TrainBuilder/bin/Debug/netcoreapp3.0/TypesOfRailwayCars.pdb
+/Users/uladzislaushoka/RiderProjects/OOPSolution/TrainBuilder/obj/Debug/netcoreapp3.0/TrainBuilder.csprojAssemblyReference.cache
+/Users/uladzislaushoka/RiderProjects/OOPSolution/TrainBuilder/obj/Debug/netcoreapp3.0/TrainBuilder.AssemblyInfoInputs.cache
+/Users/uladzislaushoka/RiderProjects/OOPSolution/TrainBuilder/obj/Debug/netcoreapp3.0/TrainBuilder.AssemblyInfo.cs
+/Users/uladzislaushoka/RiderProjects/OOPSolution/TrainBuilder/obj/Debug/netcoreapp3.0/TrainBuilder.csproj.CopyComplete
+/Users/uladzislaushoka/RiderProjects/OOPSolution/TrainBuilder/obj/Debug/netcoreapp3.0/TrainBuilder.dll
+/Users/uladzislaushoka/RiderProjects/OOPSolution/TrainBuilder/obj/Debug/netcoreapp3.0/TrainBuilder.pdb

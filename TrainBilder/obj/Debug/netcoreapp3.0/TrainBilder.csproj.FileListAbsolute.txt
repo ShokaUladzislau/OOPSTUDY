@@ -1,0 +1,11 @@
+/Users/uladzislaushoka/RiderProjects/OOPSolution/TrainBilder/bin/Debug/netcoreapp3.0/TrainBilder
+/Users/uladzislaushoka/RiderProjects/OOPSolution/TrainBilder/bin/Debug/netcoreapp3.0/TrainBilder.deps.json
+/Users/uladzislaushoka/RiderProjects/OOPSolution/TrainBilder/bin/Debug/netcoreapp3.0/TrainBilder.runtimeconfig.json
+/Users/uladzislaushoka/RiderProjects/OOPSolution/TrainBilder/bin/Debug/netcoreapp3.0/TrainBilder.runtimeconfig.dev.json
+/Users/uladzislaushoka/RiderProjects/OOPSolution/TrainBilder/bin/Debug/netcoreapp3.0/TrainBilder.dll
+/Users/uladzislaushoka/RiderProjects/OOPSolution/TrainBilder/bin/Debug/netcoreapp3.0/TrainBilder.pdb
+/Users/uladzislaushoka/RiderProjects/OOPSolution/TrainBilder/obj/Debug/netcoreapp3.0/TrainBilder.csprojAssemblyReference.cache
+/Users/uladzislaushoka/RiderProjects/OOPSolution/TrainBilder/obj/Debug/netcoreapp3.0/TrainBilder.AssemblyInfoInputs.cache
+/Users/uladzislaushoka/RiderProjects/OOPSolution/TrainBilder/obj/Debug/netcoreapp3.0/TrainBilder.AssemblyInfo.cs
+/Users/uladzislaushoka/RiderProjects/OOPSolution/TrainBilder/obj/Debug/netcoreapp3.0/TrainBilder.dll
+/Users/uladzislaushoka/RiderProjects/OOPSolution/TrainBilder/obj/Debug/netcoreapp3.0/TrainBilder.pdb

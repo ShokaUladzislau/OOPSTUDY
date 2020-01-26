@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypesOfRailwayCars", "TypesOfRailwayCars\TypesOfRailwayCars.csproj", "{81AB8F50-0472-43B0-8B14-420A6B4CC11B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainBuilder", "TrainBuilder\TrainBuilder.csproj", "{CC25FB7B-68D3-4F68-BBEA-DA8D169D6174}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81AB8F50-0472-43B0-8B14-420A6B4CC11B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81AB8F50-0472-43B0-8B14-420A6B4CC11B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81AB8F50-0472-43B0-8B14-420A6B4CC11B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81AB8F50-0472-43B0-8B14-420A6B4CC11B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC25FB7B-68D3-4F68-BBEA-DA8D169D6174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC25FB7B-68D3-4F68-BBEA-DA8D169D6174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC25FB7B-68D3-4F68-BBEA-DA8D169D6174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC25FB7B-68D3-4F68-BBEA-DA8D169D6174}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

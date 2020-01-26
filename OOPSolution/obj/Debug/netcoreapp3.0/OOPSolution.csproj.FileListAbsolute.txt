@@ -1,0 +1,8 @@
+/Users/uladzislaushoka/RiderProjects/OOPSolution/OOPSolution/bin/Debug/netcoreapp3.0/OOPSolution.deps.json
+/Users/uladzislaushoka/RiderProjects/OOPSolution/OOPSolution/bin/Debug/netcoreapp3.0/OOPSolution.dll
+/Users/uladzislaushoka/RiderProjects/OOPSolution/OOPSolution/bin/Debug/netcoreapp3.0/OOPSolution.pdb
+/Users/uladzislaushoka/RiderProjects/OOPSolution/OOPSolution/obj/Debug/netcoreapp3.0/OOPSolution.csprojAssemblyReference.cache
+/Users/uladzislaushoka/RiderProjects/OOPSolution/OOPSolution/obj/Debug/netcoreapp3.0/OOPSolution.AssemblyInfoInputs.cache
+/Users/uladzislaushoka/RiderProjects/OOPSolution/OOPSolution/obj/Debug/netcoreapp3.0/OOPSolution.AssemblyInfo.cs
+/Users/uladzislaushoka/RiderProjects/OOPSolution/OOPSolution/obj/Debug/netcoreapp3.0/OOPSolution.dll
+/Users/uladzislaushoka/RiderProjects/OOPSolution/OOPSolution/obj/Debug/netcoreapp3.0/OOPSolution.pdb

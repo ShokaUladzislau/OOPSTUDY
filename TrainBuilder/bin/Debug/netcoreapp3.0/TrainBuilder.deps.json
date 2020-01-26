@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "TrainBuilder/1.0.0": {
+        "dependencies": {
+          "TypesOfRailwayCars": "1.0.0"
+        },
+        "runtime": {
+          "TrainBuilder.dll": {}
+        }
+      },
+      "TypesOfRailwayCars/1.0.0": {
+        "runtime": {
+          "TypesOfRailwayCars.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TrainBuilder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TypesOfRailwayCars/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
